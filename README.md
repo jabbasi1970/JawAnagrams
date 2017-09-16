@@ -8,3 +8,5 @@ D: Test webservice to make sure it does the job
 E: Put code in Version controle repository
 F: Setup some autodeploy mechanism' so that when there are code changes committed code is deployed automaticlly
 G: Propose a monitoring solution
+Requirements:
+1: python 2.6  (Hard to get this one)
